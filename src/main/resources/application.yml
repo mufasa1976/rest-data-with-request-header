@@ -1,0 +1,7 @@
+spring:
+  data:
+    rest:
+      base-path: /api/repositories
+  jpa:
+    hibernate:
+      ddl-auto: validate
